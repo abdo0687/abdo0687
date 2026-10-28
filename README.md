@@ -1,4 +1,4 @@
-# Abdurrahman Mursi
+# Abdurrahman Mursioglu
 
 **Product-focused developer · Full-stack web applications · UX & workflow design**
 
